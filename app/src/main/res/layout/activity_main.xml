@@ -77,13 +77,13 @@
             android:layout_marginTop="28dp" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/readUser"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="读取"
-            android:layout_marginStart="30dp"
             android:layout_alignBottom="@+id/editText1"
-            android:layout_toEndOf="@+id/editText1" />
+            android:layout_marginStart="30dp"
+            android:layout_toEndOf="@+id/editText1"
+            android:text="读取" />
 
     </RelativeLayout>
 
